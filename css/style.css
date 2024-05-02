@@ -516,3 +516,12 @@ footer .designer {
   font-weight: 400;
   margin: 0px 5px;
 }
+
+footer .address {
+  color: #0bf561;
+  opacity: 0.7;
+  text-transform: uppercase;
+  letter-spacing: lpx;
+  font-weight: 400;
+  margin: 0px 5px;
+}
